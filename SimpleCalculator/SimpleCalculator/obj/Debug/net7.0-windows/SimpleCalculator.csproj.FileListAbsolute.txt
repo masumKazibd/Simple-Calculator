@@ -1,0 +1,34 @@
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.exe
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.deps.json
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.runtimeconfig.json
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.dll
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.pdb
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.csproj.AssemblyReference.cache
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.Calculator.resources
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.AssemblyInfo.cs
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.dll
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\refint\SimpleCalculator.dll
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.pdb
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.genruntimeconfig.cache
+F:\Masum Kazi [CS-1279032]\C#\Class_1  (Project)\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\ref\SimpleCalculator.dll
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.Calculator.resources
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.AssemblyInfo.cs
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.dll
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\refint\SimpleCalculator.dll
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.pdb
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.exe
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.deps.json
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.runtimeconfig.json
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.dll
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net7.0-windows\SimpleCalculator.pdb
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\SimpleCalculator.genruntimeconfig.cache
+C:\Users\student\Desktop\Images\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net7.0-windows\ref\SimpleCalculator.dll
